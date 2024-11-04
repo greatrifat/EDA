@@ -10,3 +10,7 @@
 
 #Data
 - 2018 to 2021
+
+![dashboard](dashboard.png)
+
+![details](details.png)
