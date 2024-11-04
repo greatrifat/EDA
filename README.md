@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) Reports
+# Exploratory Data Analysis (EDA) 
 
 This repository contains Exploratory Data Analysis (EDA) reports and code for analyzing two datasets: **Bank Loan Defaulters** and **Telco Customers**. The analysis aims to provide insights into customer behaviors, identify trends, and help make data-driven decisions for improved business strategies.
 
@@ -37,5 +37,5 @@ The **Telco Customers** dataset contains information about customers of a teleco
 This project is open-source and available under the MIT License.
 
 Special Thanks to 
-https://www.youtube.com/watch?v=FNLLxYcUnow
-https://www.youtube.com/playlist?list=PL4GjoPPG4VqO6eg4mUeBDn7k21RLfti8-
+- https://www.youtube.com/watch?v=FNLLxYcUnow
+- https://www.youtube.com/playlist?list=PL4GjoPPG4VqO6eg4mUeBDn7k21RLfti8-
