@@ -1,15 +1,13 @@
-#Requirment Gathering
-- ASTakeholders
+# Requirment Gathering
+- Stakeholders
 - Understand Business Objective
-- Data Study
-- Scope
+- Data Study & Scope
 
-#Project Goal
+# Project Goal
 - Treat paitent waiting list
 - Analyze Historical monthly trend of waiting
 
-#Data
-- 2018 to 2021
+# Data: 2018 to 2021
 
 ![dashboard](dashboard.png)
 
